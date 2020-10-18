@@ -3,7 +3,7 @@ name: sync
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '*/30 * * * *' # Run every 30 minutes
 
