@@ -1,0 +1,7 @@
+files:
+  - path: LICENSE.md
+    source: https://github.com/House-Cat-App/shared/blob/main/licenses/gnu-gpl-v3.md
+  - path: .github/workflows/sync.yml
+    source: https://github.com/House-Cat-App/shared/blob/main/workflows/sync.yml
+  - path: CODE_OF_CONDUCT.md
+    source: https://github.com/House-Cat-App/shared/blob/main/docs/coc.md
