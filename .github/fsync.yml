@@ -5,3 +5,5 @@ files:
     source: https://github.com/House-Cat-App/shared/blob/main/workflows/sync.yml
   - path: CODE_OF_CONDUCT.md
     source: https://github.com/House-Cat-App/shared/blob/main/docs/coc.md
+  - path: .gitattributes
+    source: https://github.com/House-Cat-App/shared/blob/main/.gitattributes
